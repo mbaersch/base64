@@ -1,4 +1,5 @@
 # Base64
+
 **Custom Variable Template for Server-Side Google Tag Manager**
 
 Base64 encoding or decoding for any input value. 
